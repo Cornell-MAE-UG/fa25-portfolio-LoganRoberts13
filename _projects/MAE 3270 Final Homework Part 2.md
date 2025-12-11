@@ -5,7 +5,7 @@ title: MAE 3270 Final Homework Part 2
 
 1. Image(s) of CAD model. Must show all key dimensions.
 
-![CAD Model](/assets/images/problem 1 cad.png "CAD Model")
+![CAD Model](/assets/images/problem-1-cad.png "CAD Model")
 
 Total handle length (L): 16 in
 Width (h): 0.75 in
@@ -30,7 +30,7 @@ Reason for choice: Lower E increases strain (and therefore mV/V) at the same str
 3. Diagram communicating how loads and boundary conditions were applied to your FEM
 model.
 
-![Diagram for FEM Model](/assets/images/problem 3 diagram.jpg "Diagram")
+![Diagram for FEM Model](/assets/images/problem-3-diagram.jpg "Diagram")
 
 4. Normal strain contours (in the strain gauge direction) from FEM
 
