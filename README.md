@@ -37,7 +37,7 @@ Alternatively, you can use the online [Codespaces](https://github.com/features/c
 
 ### Using the Git CLI
 
-Finally, if you are an advanced user, you can simply clone your repository to your local machine using the Git command line interface in the terminal, and then use any text editing software you prefer to edit the files. 
+Finally, if you are an advanced user, you can simply clone your repository  your local machine using the Git command line interface in the terminal, and then use any text editing software you prefer to edit the files. 
 
 Use the terminal to commit and push your files and run the local test server.
 
