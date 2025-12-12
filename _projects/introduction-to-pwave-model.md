@@ -1,8 +1,6 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: P-wave Model Introduction
 image: /assets/images/function-graph.png
 ---
 
