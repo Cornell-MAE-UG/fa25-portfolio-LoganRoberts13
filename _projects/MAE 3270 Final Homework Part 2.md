@@ -1,6 +1,6 @@
 ﻿---
 layout: project
-title: MAE-3270 Final-Homework-Part-2
+title: MAE-3270-Final-Homework-Part-2
 ---
 
 1. Image(s) of CAD model. Must show all key dimensions.
