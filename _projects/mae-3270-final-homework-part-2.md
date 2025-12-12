@@ -2,7 +2,6 @@
 layout: project
 title: MAE-3270-Final-Homework-Part-2
 image: /assets/images/problem-1-cad.png
-date: 2025-12-12
 published: true
 ---
 
