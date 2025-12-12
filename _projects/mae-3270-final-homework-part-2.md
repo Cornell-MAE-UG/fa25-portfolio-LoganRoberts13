@@ -1,7 +1,9 @@
-﻿---
+---
 layout: project
 title: MAE-3270-Final-Homework-Part-2
 image: /assets/images/problem-1-cad.png
+date: 2025-12-12
+published: true
 ---
 
 1. Image(s) of CAD model. Must show all key dimensions.
@@ -68,5 +70,3 @@ Type: Foil, 350 Ω, self-temperature-compensated for aluminum, polyimide backing
 Grid size: ~3 mm × 2 mm (≈0.12 in × 0.08 in)
 Placement: One gauge per side pad, aligned with beam axis, wired as a half-bridge (tension + compression arms)
 Pad/Surface: Flat pad ≥ 0.60 in × 0.50 in, surface finish ~32 µin Ra, flatness ~0.002 in
-
-
