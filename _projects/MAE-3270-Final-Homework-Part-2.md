@@ -1,6 +1,7 @@
 ﻿---
 layout: project
 title: MAE-3270-Final-Homework-Part-2
+image: /assets/images/problem-1-cad.png
 ---
 
 1. Image(s) of CAD model. Must show all key dimensions.
