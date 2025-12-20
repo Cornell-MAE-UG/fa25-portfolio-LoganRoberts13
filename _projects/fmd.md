@@ -1,6 +1,6 @@
 ---
-layout: fmd
-title: Spaceship Design
+layout: project
+title: Fluid-Mechanical Dissection
 description: Fluid-Mechanical Dissection of a Dehumidifier
 image: /assets/images/fmd.png
 ---
