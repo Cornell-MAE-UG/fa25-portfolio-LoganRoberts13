@@ -1,9 +1,8 @@
 ---
-layout: project
+layout: fmd
 title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+description: Fluid-Mechanical Dissection of a Dehumidifier
+image: /assets/images/fmd.png
 ---
 
 
