@@ -2,7 +2,7 @@
 layout: project
 title: Heat Transfer
 ---
-[Heat Transfer 4](../assets/Heat%20Transfer%204.pdf)
+[Problem Set 4 Answers](../assets/Heat%20Transfer%204.pdf)
 
 [Problem Set 4](../assets/Problem%20set%204.pdf)
 
